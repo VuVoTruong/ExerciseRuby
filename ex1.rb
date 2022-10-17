@@ -21,3 +21,7 @@ end
 # input: 20
 # input: -1
 # Array(size=2): [10, 20]         Min: 10
+# A có vài góp ý nhỏ:
+# 1. số 99 e nên ghi là hằng số
+# 2. arr là 1 mảng thì thường mình khai báo là số nhiều
+# 3. arr.length == 0 -> e có thể viết lại thành arr.length.zero? 
